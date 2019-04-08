@@ -1,0 +1,10 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+deps/usr
+deps/deps.jl
+
+*.bag
+deps/build.log
+Manifest.toml
